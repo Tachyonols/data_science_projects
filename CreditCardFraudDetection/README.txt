@@ -1,0 +1,2 @@
+INSTRUCTIONS FOR USE:
+At the beginning of each Notebook there is a space in which you can write the name of your test file which should preferrably be in the same folder as the notebooks(<filename>.csv). It will produce the .txt file with predictions. Some notebooks may be slow due to the presence of all the experiments we did, some of them very slow(namely SVM with all the dataset and clustering in data preprocessing). The execution requires some libraries, namely Tensorflow, Keras, imblearn and livelossplot among them.
